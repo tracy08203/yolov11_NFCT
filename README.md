@@ -1,7 +1,6 @@
 # YOLOv11_NFCT
 
 This project uses **Ultralytics YOLOv11 (YOLO11X)** for object detection training.  
-Model training and data handling are performed in Google Colab with Google Drive integration.
 
 ---
 
